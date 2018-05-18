@@ -4,6 +4,6 @@ You need to use given repo to create your music list.
 
 ### Student Details
 
-- **Student ID**:  U1610075
-- **Student Name**: Ibrat Abidov
-- **Section Number**: 002
+- **Student ID**:  U1610251
+- **Student Name**: Vadim Kim
+- **Section Number**: 004
